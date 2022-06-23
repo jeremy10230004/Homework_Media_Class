@@ -1,5 +1,3 @@
-# Social_Midea_Class
-
 #1.專案題目:
 2020-stamile-packt-Graph Machine Learning
 03.unsupervised graph learning
